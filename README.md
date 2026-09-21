@@ -18,4 +18,4 @@ Machine learning model predicting loan approval decisions to replace inconsisten
 - Dollar savings vs. baseline: [99.24%]
 
 ## File
-- 'fintech_loan_approval.ipynb' - full analysis notebook
+- 'Fintech_Loan_Approval.ipynb' - full analysis notebook
